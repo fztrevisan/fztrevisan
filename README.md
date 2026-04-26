@@ -4,4 +4,3 @@ Machine Learning Engineer focused on production ML, MLOps, data platforms, and a
 
 🌐 Portfolio: https://fztrevisan.github.io  
 💼 LinkedIn: https://linkedin.com/in/fernandoztrevisan/  
-📫 Email: trevisan.fernando@gmail.com
