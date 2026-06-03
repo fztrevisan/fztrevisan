@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.debugpy",
+        "ms-toolsai.jupyter",
+        "ms-vscode.live-server",
+        "ms-vscode-remote.remote-containers",
+        "github.copilot",
+        "github.vscode-github-actions",
+        "charliermarsh.ruff",
+        "bierner.markdown-mermaid",
+        "njpwerner.autodocstring",
+        "oderwat.indent-rainbow",
+        "gruntfuggly.todo-tree",
+        "alexcvzz.vscode-sqlite",
+    ]
+}
